@@ -4,7 +4,6 @@ a = 1
 b = 20
 nr_aleator = random.choices(range(a,b))
 
-print (nr_aleator)
 
 while True:
     try:
