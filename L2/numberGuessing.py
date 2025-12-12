@@ -4,6 +4,7 @@ a = 1
 b = 20
 nr_aleator = random.choices(range(a,b))
 
+print("Gaseste numarul intre 1 si 20!")
 
 while True:
     try:
