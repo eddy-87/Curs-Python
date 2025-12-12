@@ -1,12 +1,8 @@
-while True:
-        cuvant_initial = str(input())
+def is_palindrom(word):
+    if word == word[::-1]:
+        return True
+    else:
+        return False
 
-        if not cuvant_initial.isalpha():
-            print("Sunt doar aceptate litere, nu numere")
-            continue
-
-        cuvant_mic = cuvant_initial.lower()
-
-        cuvant_final = str
-        if str(cuvant_final) == cuvant_mic[::-1]:
-            print("TRUE")
+rezultat = is_palindrom('level')
+print (rezultat)
