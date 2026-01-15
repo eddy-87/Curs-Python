@@ -1,0 +1,4 @@
+Python este un limbaj versatil.
+Java este popular in dezvoltarea enterprise.
+Python este folosit in stiinta datelor.
+Python este usor de invatat.
